@@ -1,3 +1,4 @@
+#The code is to get treemap with graph_objects
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd

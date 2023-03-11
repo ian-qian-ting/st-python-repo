@@ -1,0 +1,7 @@
+labels,parents,data_values
+WW,,9.6
+US,WW,3.1
+CN,WW,4
+Europe,WW,2.5
+BR,Europe,2
+Other,Europe,0.5
